@@ -1,0 +1,1 @@
+Perceptrons are limited to a single linear equation, and as a result when they are alone they are extremely inaccurate.
